@@ -1,3 +1,3 @@
 # mobileApp_TemperatureConverter
 
-![demo1](master/tempConvert1⁩.png)
+![demo1](tempConvert1⁩.png)
