@@ -1,3 +1,3 @@
 # mobileApp_TemperatureConverter
 
-![demo1](/images/tempConvert1⁩.png)
+![demo1](https://raw.githubusercontent.com/username/projectname/branch/path/to/tempConvert1⁩.png)
